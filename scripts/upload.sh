@@ -18,7 +18,7 @@ MODRINTH_DATA=$(cat <<EOF
 	"dependencies": [],
 	"game_versions": ["$pack_mc_version"],
 	"version_type": "release",
-	"loaders": ["fabric"],
+	"loaders": ["neoforge"],
 	"featured": false,
 	"project_id": "loremIpsum",
 	"file_parts": [

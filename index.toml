@@ -49,5 +49,120 @@ file = "icon.xcf"
 hash = "f83f10b17f88a03abb30a5a92c5bae1ef833890b02c54282eee7ca8302efb4f1"
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "8169fa6b9fd786fcff725d88a4a3d344fecadb4abc2b2823c65af099d3a82147"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/log-begone.pw.toml"
+hash = "48bd525ac1cd8811759a7842548a49e51bd25455b8044f99a423d464987dfdc0"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "a87252ea5cefb7f1db42eaf2dd523e057fa6e690c213d803aa151c808bba2a9a"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "f093cf9ea51450d9e691d1826517179c014fe94b216a519a9c36c1984859afdc"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
 hash = "f6d01b14a18cd997e24751f91a8a429f5b5233148b68d0764249e15598b5b346"
