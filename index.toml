@@ -1,0 +1,53 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/logbegone.toml"
+hash = "002d376dd95d9c43466967a6049aeb48d252af2ee507b1c0ac489fe0987b6906"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3f8be18fec3a32677ebdeeb1c22257bda0a8beba80716ca7f3ae4e3501ddeee0"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "3f518629ac7f69098f7fbbc2dbea24eb65ca75aef5c565719ac8a8e9c8bb79a9"
+
+[[files]]
+file = "config/paxi/datapacks/BetterEndCities-Vanilla-1.21.zip"
+hash = "37577397d228e112eba127d1dace316b7da7e1348cb931b34958666305adfbee"
+
+[[files]]
+file = "config/paxi/datapacks/anti-enderman-grief-v1.1.14.zip"
+hash = "bb4d64fe6fde9edad5bacb21a960d8b973c32d1f5eaf60128306eebe1e2e5836"
+
+[[files]]
+file = "config/paxi/datapacks/nether-portal-coords-v1.1.14.zip"
+hash = "91cb0ca7a97af6abc596fa271dfd88619a1504d3056fb563cb029e4134c07902"
+
+[[files]]
+file = "config/paxi/datapacks/player-head-drops-v1.1.14.zip"
+hash = "310354d54ed65f619903dd07f1a5fcdb1fae47a4c39d234fbe39cb373040755c"
+
+[[files]]
+file = "config/paxi/datapacks/silence-mobs-v1.2.8.zip"
+hash = "934db02ab188038041283033a0eb4fea0aa6e9bc08d50b39e2c9c26fdac73747"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "93bf7f4b8afc4b9b977ad6f852bf8091bd17b02faf0eb17406c8700d9e83bd7b"
+
+[[files]]
+file = "icon.png"
+hash = "8ca83b8f9c57f561bbbd042ad016570a6e16e2e53d1d8f68e1924a2e15f3cdcc"
+
+[[files]]
+file = "icon.xcf"
+hash = "f83f10b17f88a03abb30a5a92c5bae1ef833890b02c54282eee7ca8302efb4f1"
+
+[[files]]
+file = "unsup.ini"
+hash = "f6d01b14a18cd997e24751f91a8a429f5b5233148b68d0764249e15598b5b346"

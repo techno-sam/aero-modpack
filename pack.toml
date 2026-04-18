@@ -1,0 +1,17 @@
+name = "slimeist_aero"
+author = "Slimeist"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7828bf2c380066118dd356306c3095363479731a8f4ceeebe3a7e58e42e6dede"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.226"
+
+[options]
+acceptable-game-versions = ["1.21", "1.21.1"]
+datapack-folder = "config/paxi/datapacks"
