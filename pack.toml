@@ -1,12 +1,12 @@
 name = "slimeist_aero"
 author = "Slimeist"
-version = "0.0.4"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dc3a1b136be20cdec092f21070721f298fcb835dda835139b5bbf5c81a83ad68"
+hash = "3d9c314003fc9ab78883695dd281303464d2e037eb5e018f1c8f21cddf175f89"
 
 [versions]
 minecraft = "1.21.1"
