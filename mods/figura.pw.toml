@@ -1,8 +1,0 @@
-name = "figura"
-filename = "figura-0.1.5-sodium-patch+1.21.1-neoforge-mc.jar"
-side = "client"
-
-[download]
-url = "https://github.com/techno-sam/Figura/releases/download/0.1.5-sodium-patch/figura-0.1.5-sodium-patch+1.21.1-neoforge-mc.jar"
-hash-format = "sha256"
-hash = "1b0a9a0330fc166e1b220896bf69944957c72a4da86a8494c8c45edf20fe964f"
